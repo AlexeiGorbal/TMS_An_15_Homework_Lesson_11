@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson11.part2.model.Figures;
+package com.teachmeskills.lesson11.part2.model.figures;
 
 public class Rectangle extends Figure {
     private double firstSide;

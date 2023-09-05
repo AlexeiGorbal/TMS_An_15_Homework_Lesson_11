@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson11.part2.model.Figures;
+package com.teachmeskills.lesson11.part2.model.figures;
 
 public class Triangle extends Figure {
     private double firstSide, secondSide, thirdSide;

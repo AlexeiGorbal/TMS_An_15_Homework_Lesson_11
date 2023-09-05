@@ -1,9 +1,9 @@
 package com.teachmeskills.lesson11.part2;
 
-import com.teachmeskills.lesson11.part2.model.Figures.Circle;
-import com.teachmeskills.lesson11.part2.model.Figures.Figure;
-import com.teachmeskills.lesson11.part2.model.Figures.Rectangle;
-import com.teachmeskills.lesson11.part2.model.Figures.Triangle;
+import com.teachmeskills.lesson11.part2.model.figures.Circle;
+import com.teachmeskills.lesson11.part2.model.figures.Figure;
+import com.teachmeskills.lesson11.part2.model.figures.Rectangle;
+import com.teachmeskills.lesson11.part2.model.figures.Triangle;
 
 import java.util.ArrayList;
 
